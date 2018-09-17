@@ -1,0 +1,27 @@
+_repo: Evolution_52571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Watson, James A. S. (James Anderson Scott)
+    aliases:
+    - Watson, J. A. Scott (James Anderson Scott)
+    - Scott-Watson, James Anderson
+    birthdate: 1889
+    deathdate: 1966
+    gutenberg_agent_id: '46934'
+    url: http://www.gutenberg.org/2009/agents/46934
+description: ''
+gutenberg_issued: '2016-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcc 'QH'
+- GITenberg
+title: Evolution
+url: http://www.gutenberg.org/ebooks/52571
